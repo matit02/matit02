@@ -8,4 +8,5 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](linkedin.com/in/mateusz-tomaszewski-509683313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-tomaszewski-509683313)
+
