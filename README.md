@@ -3,7 +3,7 @@
 - Passionate about Machine Learning and AI, seeking internship and full-time opportunities in this field
 
 ## Contact
-**E-mail:** mati.j.tomaszewski@gmail.com **CV:** 
+**E-mail:** mati.j.tomaszewski@gmail.com **CV:** https://matit02.github.io/CV/
 
 
 
